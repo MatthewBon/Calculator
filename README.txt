@@ -1,0 +1,1 @@
+This project was written in Python with PyQt5 lib
